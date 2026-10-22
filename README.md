@@ -8,7 +8,7 @@ I work on tools that make it easier to follow a claim back to its evidence, unde
 
 | Project | What you can do | Status |
 | --- | --- | --- |
-| [Memory Window](https://github.com/davidvictoroff85-collab/memory-window) | Run a local A–Z evidence demo, inspect dependencies, detect gaps and altered content | Working prototype; licensing pending |
+| [Memory Window](https://github.com/davidvictoroff85-collab/memory-window) | Run a local A–Z evidence demo, inspect dependencies, detect gaps and altered content | Working prototype; Apache 2.0 |
 | [Victoroff OS](https://github.com/davidvictoroff85-collab/victoroff-os) | Explore the broader experimental platform and its source history | Experimental; existing proprietary terms apply |
 
 ### What I care about
